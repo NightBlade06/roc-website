@@ -1,0 +1,98 @@
+.lichtblauw {
+    background-color: #7070b3;
+}
+
+.geel {
+    background-color: #e8b620;
+}
+
+.paars {
+    background-color: #D44677;
+}
+
+.module-1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+    height: auto;
+}
+
+.itemlists {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.itemlists-box {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px #676664;
+}
+
+.itemlists-box-1 {
+    height: 240px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px #676664;
+
+}
+
+
+.text-pos{
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    padding: 20px;
+    font-family: Fragment Mono;
+}
+
+h2 {
+    font-size: 30px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: Fragment Mono;
+}
+
+li{
+    font-family: Fragment Mono;
+}
+
+p{
+    font-family: Fragment Mono;
+    padding: 5px;
+}
+
+.h2-box {
+    width: 1250px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.h2-pos {
+    margin-bottom: -40px;
+    display: flex;
+    justify-content: center;
+}

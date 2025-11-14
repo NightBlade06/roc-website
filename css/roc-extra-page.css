@@ -1,0 +1,50 @@
+.module-2 {
+    display: flex;
+    max-width: auto;
+    height: auto;
+    padding: 50px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.module-2-box {
+    display: flex;
+    flex-direction: column;
+    max-width: auto;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px #676664;
+}
+
+h1 {
+    font-family: Fragment Mono;
+}
+
+p {
+    font-family: Fragment Mono;
+}
+
+.pos-box {
+    display: flex;
+    justify-content: center;
+}
+
+.text-padding {
+    padding: 5px;
+}
+
+.position-right {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-size {
+    image-resolution: inherit;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 #00000033;
+    margin-right: 100px;
+    margin-left: 100px;
+}

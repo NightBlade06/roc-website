@@ -1,0 +1,111 @@
+.yellow {
+    background-color: #e8b620;
+}
+
+.lichtblauw {
+    background-color: #7070b3;
+}
+
+body {
+    background-color: #eeeef6;
+    padding: 0px;
+    margin: 0px;
+    width: auto;
+}
+
+.software-dev {
+    color: #D44677;
+    font-size: 70px;
+    height: 400px;
+    width: 500px;
+}
+
+.box-shape {
+    font-size: 20px;
+    margin: 50px;
+    border-radius: 10px;
+    margin-right: 80pxs;
+}
+
+.general-information-box {
+    padding-right: 100px;
+}
+
+main {
+    width: auto;
+    height: auto;
+}
+
+.top-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.top-title-box {
+    height: 250px;
+    padding-left: 150px;
+    margin-left: 100px;
+}
+
+.listitem {
+    padding: 10px;
+    color: white;
+}
+
+.bottom-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+h1{
+    font-family: Fragment Mono;
+}
+
+p {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    font-size: 20px;
+    color: white;
+    font-family: Fragment Mono;
+}
+
+li{
+    font-family: Fragment Mono;
+}
+
+
+
+.bottompadding {
+    padding-left: 50px;
+}
+
+.paragraph-box {
+    margin-left: 200px;
+}
+
+.paragraph-box-img {
+    margin-right: 150px
+}
+
+.video-size {
+    height: 600px;
+    width: 1000px;
+    
+}
+
+.video-title {
+    padding: 0px;
+    font-size: 70px;
+    color: #D44677;
+}
+
+.box-video {
+    padding: 250px;
+    padding-top: 150px;
+}

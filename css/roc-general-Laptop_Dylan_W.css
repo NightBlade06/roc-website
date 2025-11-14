@@ -1,0 +1,86 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.headerbox {
+   background-color: #ffffff;
+   display: flex;
+   align-items: center;
+   height: 150px;
+   width: auto;
+}
+.headerbox-img {
+    justify-content: flex-start;
+    display: flex;
+    margin-right: 450px;
+}
+.header-img {
+    width: 140px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.headerbox-nav {
+    justify-content: space-around;
+    display: flex;
+    width: 350px;
+    margin-left: -25px;
+    }
+.nav-header {
+    text-decoration: none;
+    color: #3C3054;
+    font-size: 30px;}
+
+footer {
+    background-color: #eeeef6;
+    display: flex;
+    align-items: center;
+    height: 150px;
+    width: auto;
+    background-color:#3C3054;
+    flex-direction: row;
+    justify-content: space-between;}
+
+.footer-img {
+    width:50px;
+    padding-bottom: 20px;
+}
+
+.footer-text {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 75px;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a {text-decoration: none; 
+color: white;}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    background-color: #eeeef6;
+}
+
+.yellow{
+background-color: #e8b620;
+}
+
+.pink{
+background-color: #d44677;
+}
+
+.purple{
+background-color: #3c3054;
+}
+
+.blue{
+background-color: #7070b3;
+}
